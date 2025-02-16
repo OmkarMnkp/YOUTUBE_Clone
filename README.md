@@ -19,6 +19,9 @@ This project is a **YouTube clone** built using **React.js**. It replicates the 
 - **CSS & Material UI** (for styling)
 - **React Router** (for navigation)
 
+## Demo
+
+You can view the live demo of the project here: [Live Demo](https://helpful-begonia-d6e086.netlify.app/)
 
 
 
