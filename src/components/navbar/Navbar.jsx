@@ -11,7 +11,7 @@ import profile from '../../assets/user_profile.jpg';
 import { Link } from "react-router-dom";
 
 
-
+// navbar section
 
 const Navbar = ({setSidebar}) => {
     return (
